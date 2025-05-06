@@ -80,7 +80,9 @@ const OUTPUT_DIR = `./website-assets/${baseName}`;
           const candidates = srcset.split(',').map(s => s.trim().split(' ')[0]);
           finalSrc = candidates[candidates.length - 1] || img.src;
         }
-        if (finalSrc.startsWith('/')) {
+        if (finalSrc.startsWith('//')) {
+          finalSrc = `https:${finalSrc}`;
+        } else if (finalSrc.startsWith('/')) {
           finalSrc = `${window.location.origin}${finalSrc}`;
         }
         return {
