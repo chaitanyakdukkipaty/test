@@ -1,0 +1,116 @@
+[
+  {
+    "type": "img",
+    "src": "https://m.media-amazon.com/images/I/51Id5Jjpm-L._SX1500_.jpg",
+    "alt": "Mobiles",
+    "filename": "1-Mobiles.jpg"
+  },
+  {
+    "type": "img",
+    "src": "https://images-eu.ssl-images-amazon.com/images/G/31/img19/Beauty/GW/desktop/Make-up-CC_desktop_1x._SY304_CB466075850_.jpg",
+    "alt": "Up to 30% off | Makeup products",
+    "filename": "2-Up_to_30__off___Makeup_products.jpg"
+  },
+  {
+    "type": "img",
+    "src": "https://images-eu.ssl-images-amazon.com/images/G/31/Gateway/Events/2018/JupiterFallBack/Jupiter_bau_PC_top_card_fashion_1x._SY304_CB484150077_.jpg",
+    "alt": "New looks for the new season",
+    "filename": "3-New_looks_for_the_new_season.jpg"
+  },
+  {
+    "type": "img",
+    "src": "https://images-eu.ssl-images-amazon.com/images/G/31/Gateway/Events/2018/JupiterFallBack/Jupiter_bau_PC_top_card_home_1x._SY304_CB484150079_.jpg",
+    "alt": "Do up your home",
+    "filename": "4-Do_up_your_home.jpg"
+  },
+  {
+    "type": "img",
+    "src": "https://images-eu.ssl-images-amazon.com/images/G/31/img19/AmazonDevices/neel/March/1X._SY304_CB469330167_.jpg",
+    "alt": "Devices",
+    "filename": "5-Devices.jpg"
+  },
+  {
+    "type": "img",
+    "src": "https://images-eu.ssl-images-amazon.com/images/G/31/Gateway/Events/2018/JupiterFallBack/Jupiter_bau_PC_top_card_groceries_1x._SY304_CB484150076_.jpg",
+    "alt": "Value bazaar, for your daily essentials",
+    "filename": "6-Value_bazaar__for_your_daily_essentials.jpg"
+  },
+  {
+    "type": "img",
+    "src": "https://images-eu.ssl-images-amazon.com/images/G/31/img20/CEPC/Covid19/V195588257_IN_CEPC_Contingency_Covid_GW_April20_rush_dbqc0.5x_3._SY116_CB433895198_.jpg",
+    "alt": "Routers",
+    "filename": "7-Routers.jpg"
+  },
+  {
+    "type": "img",
+    "src": "https://images-eu.ssl-images-amazon.com/images/G/31/img20/CEPC/Covid19/V195588257_IN_CEPC_Contingency_Covid_GW_April20_rush_dbqc0.5x_4._SY116_CB433895198_.jpg",
+    "alt": "Laptops",
+    "filename": "8-Laptops.jpg"
+  },
+  {
+    "type": "img",
+    "src": "https://images-eu.ssl-images-amazon.com/images/G/31/img20/CEPC/Covid19/V195588257_IN_CEPC_Contingency_Covid_GW_April20_rush_dbqc0.5x_1._SY116_CB433895198_.jpg",
+    "alt": "Keyboards, mice & more",
+    "filename": "9-Keyboards__mice___more.jpg"
+  },
+  {
+    "type": "img",
+    "src": "https://images-eu.ssl-images-amazon.com/images/G/31/img20/CEPC/Covid19/V195588257_IN_CEPC_Contingency_Covid_GW_April20_rush_dbqc0.5x_2._SY116_CB433889427_.jpg",
+    "alt": "Headphones",
+    "filename": "10-Headphones.jpg"
+  },
+  {
+    "type": "img",
+    "src": "https://images-eu.ssl-images-amazon.com/images/G/31/IMG20/Home/BAU/GWPC/XCM_Manual_372x232_1212890_372X232_1_bd034eee_6f06_4e0a_9967_d0e0e5f7f932_jpg_LOWER_QL10_._SY116_CB423376243_.jpg",
+    "alt": "Bedsheets, curtains & more",
+    "filename": "11-Bedsheets__curtains___more.jpg"
+  },
+  {
+    "type": "img",
+    "src": "https://images-eu.ssl-images-amazon.com/images/G/31/IMG20/Home/BAU/GWPC/XCM_Manual_372x232_1212890_372X232_2_64e793dc_221d_4067_8fca_2f0338879977_jpg_LOWER_QL85_._SY116_CB423376243_.jpg",
+    "alt": "Home decoration",
+    "filename": "12-Home_decoration.jpg"
+  },
+  {
+    "type": "img",
+    "src": "https://images-eu.ssl-images-amazon.com/images/G/31/IMG20/Home/BAU/GWPC/XCM_Manual_372x232_1212890_372X232_3_ccc0f761_ea08_4cfb_9562_6f13e80170d8_jpg_LOWER_QL30_._SY116_CB423376243_.jpg",
+    "alt": "Home storage",
+    "filename": "13-Home_storage.jpg"
+  },
+  {
+    "type": "img",
+    "src": "https://images-eu.ssl-images-amazon.com/images/G/31/IMG20/Home/BAU/GWPC/XCM_Manual_372x232_1212890_372X232_4_bc4e9dc4_a3aa_4aae_93fd_9723dacd805f_jpg_LOWER_QL50_._SY116_CB423376243_.jpg",
+    "alt": "Lighting solutions",
+    "filename": "14-Lighting_solutions.jpg"
+  },
+  {
+    "type": "img",
+    "src": "https://images-eu.ssl-images-amazon.com/images/G/31/img20/AmazonLaunchpad/Gateway/June/dhyana_02_379_304._SY304_CB429464454_.jpg",
+    "alt": "Innovations from Emerging Indian Brands",
+    "filename": "15-Innovations_from_Emerging_Indian_Brands.jpg"
+  },
+  {
+    "type": "bg",
+    "src": "https://m.media-amazon.com/images/S/sash/e46c9mvBf-X8P4L.png",
+    "alt": "background-image",
+    "filename": "16-background-image.png"
+  },
+  {
+    "type": "bg",
+    "src": "https://m.media-amazon.com/images/G/31/gno/sprites/nav-sprite-global-1x-reorg-privacy._CB546381437_.png",
+    "alt": "background-image",
+    "filename": "17-background-image.png"
+  },
+  {
+    "type": "bg",
+    "src": "https://m.media-amazon.com/images/S/sash/MAbi1rCjQI9H2y0.png",
+    "alt": "background-image",
+    "filename": "18-background-image.png"
+  },
+  {
+    "type": "bg",
+    "src": "https://m.media-amazon.com/images/S/sash/ydDD9hnRfziI$y7.png",
+    "alt": "background-image",
+    "filename": "19-background-image.png"
+  }
+]

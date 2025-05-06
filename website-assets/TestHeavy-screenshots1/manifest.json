@@ -1,0 +1,26 @@
+[
+  {
+    "type": "img",
+    "src": "https://help.apple.com/assets/67B3DC69C33F63574F01B3A4/67B3DC6DC33F63574F01B3B0/en_US/e5486dcf4a91009eb02814bd2abc9c42.png",
+    "alt": "The Home Screen with several app icons, including the Settings app icon, which you can tap to change your iPhone sound volume, screen brightness, and more.",
+    "filename": "1-The_Home_Screen_with_several_app_icons__including_.png"
+  },
+  {
+    "type": "img",
+    "src": "https://help.apple.com/assets/67B3DC69C33F63574F01B3A4/67B3DC6DC33F63574F01B3B0/en_US/73d00f66eec8f52643b91563bfacf7f3.png",
+    "alt": "The Settings screen with the search field at the top and several settings below—such as Wi-Fi, Notifications, and Sounds & Haptics.",
+    "filename": "2-The_Settings_screen_with_the_search_field_at_the_t.png"
+  },
+  {
+    "type": "bg",
+    "src": "https://support.apple.com/clientside/build/img/tip.svg",
+    "alt": "background-image",
+    "filename": "3-background-image.svg"
+  },
+  {
+    "type": "bg",
+    "src": "https://www.apple.com/ac/globalfooter/3/en_GB/assets/ac-footer/breadcrumbs/apple/icon_large.svg",
+    "alt": "background-image",
+    "filename": "4-background-image.svg"
+  }
+]

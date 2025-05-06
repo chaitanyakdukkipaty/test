@@ -1,0 +1,128 @@
+[
+  {
+    "type": "img",
+    "src": "https://www.chanty.com/blog/wp-content/themes/gridlove-child/assets/img/logo-white.svg",
+    "alt": "Chanty",
+    "filename": "2-Chanty.svg"
+  },
+  {
+    "type": "img",
+    "src": "https://www.chanty.com/blog/wp-content/themes/gridlove-child/assets/img/close.svg",
+    "alt": "no-alt-text",
+    "filename": "3-no-alt-text.svg"
+  },
+  {
+    "type": "img",
+    "src": "https://www.chanty.com/blog/wp-content/uploads/2021/08/rsz_5u7a5396-150x150.jpeg",
+    "alt": "mm",
+    "filename": "4-mm.jpeg"
+  },
+  {
+    "type": "img",
+    "src": "https://www.chanty.com/blog/wp-content/uploads/2017/02/team-collaboration.png",
+    "alt": "Colaboración en equipo efectiva",
+    "filename": "5-Colaboraci_n_en_equipo_efectiva.png"
+  },
+  {
+    "type": "img",
+    "src": "https://www.chanty.com/blog/wp-content/uploads/2017/02/collaboration_definition-2-300x216.jpg",
+    "alt": "collaboration_definition",
+    "filename": "6-collaboration_definition.jpg"
+  },
+  {
+    "type": "img",
+    "src": "https://www.chanty.com/blog/wp-content/uploads/2017/02/collaboration_benefits-435x300.png",
+    "alt": "team collaboration",
+    "filename": "7-team_collaboration.png"
+  },
+  {
+    "type": "img",
+    "src": "https://www.chanty.com/blog/wp-content/themes/gridlove-child/assets/img/ebook-baner.png",
+    "alt": "Get free eBook!",
+    "filename": "8-Get_free_eBook_.png"
+  },
+  {
+    "type": "img",
+    "src": "https://www.chanty.com/blog/wp-content/uploads/2017/05/Chanty-logo.png",
+    "alt": "Chanty",
+    "filename": "9-Chanty.png"
+  },
+  {
+    "type": "img",
+    "src": "https://www.chanty.com/blog/wp-content/uploads/2017/02/Slack_logo.png",
+    "alt": "Slack_logo",
+    "filename": "10-Slack_logo.png"
+  },
+  {
+    "type": "img",
+    "src": "https://www.chanty.com/blog/wp-content/uploads/2017/05/ProofHub-300x150.png",
+    "alt": "ProofHub",
+    "filename": "11-ProofHub.png"
+  },
+  {
+    "type": "img",
+    "src": "https://www.chanty.com/blog/wp-content/uploads/2017/05/Backlog-740x216.png",
+    "alt": "Backlog",
+    "filename": "12-Backlog.png"
+  },
+  {
+    "type": "img",
+    "src": "https://www.chanty.com/blog/wp-content/uploads/2017/02/skype-logo-feb_2012_rgb_500.png",
+    "alt": "skype_logo",
+    "filename": "13-skype_logo.png"
+  },
+  {
+    "type": "img",
+    "src": "https://www.chanty.com/blog/wp-content/uploads/2017/06/SaaS-customer-onboarding-385x300.png",
+    "alt": "SaaS customer onboarding",
+    "filename": "18-SaaS_customer_onboarding.png"
+  },
+  {
+    "type": "img",
+    "src": "https://www.chanty.com/blog/wp-content/uploads/2017/07/SaaS-Startup-Pitfalls-%E2%80%93-from-Developers-Perspective-385x300.png",
+    "alt": "startup pitfalls",
+    "filename": "19-startup_pitfalls.png"
+  },
+  {
+    "type": "img",
+    "src": "https://www.chanty.com/blog/wp-content/uploads/2017/08/How-Artificial-Intelligence-Can-Benefit-Your-SaaS-Startup-385x300.png",
+    "alt": "Artificial Intelligence",
+    "filename": "20-Artificial_Intelligence.png"
+  },
+  {
+    "type": "img",
+    "src": "https://www.chanty.com/blog/wp-content/themes/gridlove-child/assets/img/stars.svg",
+    "alt": "Get free eBook!",
+    "filename": "21-Get_free_eBook_.svg"
+  },
+  {
+    "type": "img",
+    "src": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3ZnIHdpZHRoPSIxNnB4IiBoZWlnaHQ9IjE2cHgiIHZpZXdCb3g9IjAgMCAxNiAxNiIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj4gICAgICAgIDx0aXRsZT5Hcm91cDwvdGl0bGU+ICAgIDxkZXNjPkNyZWF0ZWQgd2l0aCBTa2V0Y2guPC9kZXNjPiAgICA8ZyBpZD0iUGFnZS0xIiBzdHJva2U9Im5vbmUiIHN0cm9rZS13aWR0aD0iMSIgZmlsbD0ibm9uZSIgZmlsbC1ydWxlPSJldmVub2RkIj4gICAgICAgIDxnIGlkPSJBcnRib2FyZC1Db3B5IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtOTU0LjAwMDAwMCwgLTE4MS4wMDAwMDApIiBmaWxsPSIjQTRBNEE0IiBmaWxsLXJ1bGU9Im5vbnplcm8iPiAgICAgICAgICAgIDxnIGlkPSJHcm91cCIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoOTU0LjAwMDAwMCwgMTgxLjAwMDAwMCkiPiAgICAgICAgICAgICAgICA8cmVjdCBpZD0iUmVjdGFuZ2xlIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSg4LjAwMDAwMCwgOC4wMDAwMDApIHJvdGF0ZSg0NS4wMDAwMDApIHRyYW5zbGF0ZSgtOC4wMDAwMDAsIC04LjAwMDAwMCkgIiB4PSItMi42NjY2NjY2NyIgeT0iNy40NjY2NjY2NyIgd2lkdGg9IjIxLjMzMzMzMzMiIGhlaWdodD0iMS4wNjY2NjY2NyIgcng9IjAuNTMzMzMzMzMzIj48L3JlY3Q+ICAgICAgICAgICAgICAgIDxyZWN0IGlkPSJSZWN0YW5nbGUtQ29weS00IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSg4LjAwMDAwMCwgOC4wMDAwMDApIHJvdGF0ZSgtNDUuMDAwMDAwKSB0cmFuc2xhdGUoLTguMDAwMDAwLCAtOC4wMDAwMDApICIgeD0iLTIuNjY2NjY2NjciIHk9IjcuNDY2NjY2NjciIHdpZHRoPSIyMS4zMzMzMzMzIiBoZWlnaHQ9IjEuMDY2NjY2NjciIHJ4PSIwLjUzMzMzMzMzMyI+PC9yZWN0PiAgICAgICAgICAgIDwvZz4gICAgICAgIDwvZz4gICAgPC9nPjwvc3ZnPg==",
+    "alt": "no-alt-text",
+    "filename": "22-no-alt-text.jpg"
+  },
+  {
+    "type": "bg",
+    "src": "https://www.chanty.com/blog/wp-content/themes/gridlove-child/assets/img/blue-check.svg",
+    "alt": "background-image",
+    "filename": "23-background-image.svg"
+  },
+  {
+    "type": "bg",
+    "src": "https://www.chanty.com/blog/wp-content/plugins/click-to-tweet-by-todaymade/assets/img/twitter-little-bird.png",
+    "alt": "background-image",
+    "filename": "24-background-image.png"
+  },
+  {
+    "type": "bg",
+    "src": "https://www.chanty.com/blog/wp-content/themes/gridlove-child/form-bg.png",
+    "alt": "background-image",
+    "filename": "25-background-image.png"
+  },
+  {
+    "type": "bg",
+    "src": "https://www.chanty.com/blog/wp-content/themes/gridlove-child/assets/img/white-check.svg",
+    "alt": "background-image",
+    "filename": "26-background-image.svg"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "type": "img",
+    "src": "https://cdn.prod.website-files.com/64e7009ace88f4f51254c29c/64f199dddeff01461329d14b_Waterfall-04-1-1024x654.png",
+    "alt": "Img Waterfall",
+    "filename": "1-Img_Waterfall.png"
+  },
+  {
+    "type": "img",
+    "src": "https://cdn.prod.website-files.com/64e7009ace88f4f51254c29c/64f199dddeff01461329d15a_Choosing.jpeg",
+    "alt": "Decision making",
+    "filename": "2-Decision_making.jpeg"
+  },
+  {
+    "type": "img",
+    "src": "https://cdn.prod.website-files.com/64e7009ace88f4f51254c29c/64f199dddeff01461329d156_Pros-Cons.jpeg",
+    "alt": "Pros & Cons",
+    "filename": "3-Pros___Cons.jpeg"
+  },
+  {
+    "type": "img",
+    "src": "https://cdn.prod.website-files.com/64e70099ce88f4f51254c238/64e7009ace88f4f51254c2da_Home_2.webp",
+    "alt": "digital marketing agency in manchester ",
+    "filename": "4-digital_marketing_agency_in_manchester_.webp"
+  },
+  {
+    "type": "bg",
+    "src": "https://cdn.prod.website-files.com/64e7009ace88f4f51254c29c/64fac3abf0101dc9ac6f6b03_Waterfall-Model-1024x538.jpg",
+    "alt": "background-image",
+    "filename": "5-background-image.jpg"
+  },
+  {
+    "type": "bg",
+    "src": "https://cdn.prod.website-files.com/64e7009ace88f4f51254c29c/6814a05271ec27bc6d321cb9_How%20to%20Choose%20the%20Best%20SEO%20Agency%20in%20Liverpool.webp",
+    "alt": "background-image",
+    "filename": "6-background-image.webp"
+  },
+  {
+    "type": "bg",
+    "src": "https://cdn.prod.website-files.com/64e7009ace88f4f51254c29c/68136236ed669c64093f68fc_SEO%20in%20Liverpool%27s%20Growing%20Digital%20Economy.webp",
+    "alt": "background-image",
+    "filename": "7-background-image.webp"
+  },
+  {
+    "type": "bg",
+    "src": "https://cdn.prod.website-files.com/64e70099ce88f4f51254c238/64ef02b77513babb5e4c9533_CaretRight.svg",
+    "alt": "background-image",
+    "filename": "8-background-image.svg"
+  }
+]

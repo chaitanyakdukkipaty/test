@@ -1,0 +1,26 @@
+[
+  {
+    "type": "img",
+    "src": "https://www.who.int/images/default-source/departments/department-of-communications/picture1.png?Status=Master&sfvrsn=278fae20_5",
+    "alt": "no-alt-text",
+    "filename": "2-no-alt-text.png"
+  },
+  {
+    "type": "img",
+    "src": "https://www.who.int/images/default-source/departments/department-of-communications/asmodeeplot_plot_cuba_2021-06-21_named.png?Status=Master&sfvrsn=cedacedb_5",
+    "alt": "no-alt-text",
+    "filename": "3-no-alt-text.png"
+  },
+  {
+    "type": "img",
+    "src": "https://www.who.int/images/default-source/departments/department-of-communications/dashboardpromo_pinplot_download.png?Status=Master&sfvrsn=74054553_5",
+    "alt": "no-alt-text",
+    "filename": "4-no-alt-text.png"
+  },
+  {
+    "type": "img",
+    "src": "https://www.who.int/ResourcePackages/WHO/assets/dist/images/logos/en/h-logo-white.svg",
+    "alt": "Home",
+    "filename": "5-Home.svg"
+  }
+]

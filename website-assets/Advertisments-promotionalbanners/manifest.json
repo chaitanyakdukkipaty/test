@@ -1,0 +1,44 @@
+[
+  {
+    "type": "img",
+    "src": "https://assets.princess.com/is/image/princesscruises/barbados-caribbean-beach-palm-trees-sunny%20(1):1x1-Square?ts=1731089246786",
+    "alt": "Florence Italy Basilica Santa Maria",
+    "filename": "1-Florence_Italy_Basilica_Santa_Maria.jpg"
+  },
+  {
+    "type": "img",
+    "src": "https://assets.princess.com/is/image/princesscruises/dubrovnik-croatia-historic-old-town-castle-marina:1x1-Square?ts=1741806933134",
+    "alt": "Dubrovnik",
+    "filename": "2-Dubrovnik.jpg"
+  },
+  {
+    "type": "img",
+    "src": "https://assets.princess.com/is/image/princesscruises/alaska-q3-lto-key-art-5:1x1-Square?ts=1741806948967",
+    "alt": "Princess ship in alaskan bay",
+    "filename": "3-Princess_ship_in_alaskan_bay.jpg"
+  },
+  {
+    "type": "img",
+    "src": "https://assets.princess.com/is/image/princesscruises/the-sanctuary:1x1-Square?ts=1713869119669",
+    "alt": "Pura Ulun Danu Bratan Temple in Bali",
+    "filename": "4-Pura_Ulun_Danu_Bratan_Temple_in_Bali.jpg"
+  },
+  {
+    "type": "img",
+    "src": "https://www.princess.com/content/dam/princess/onboard-experience/sanctuary/collection/sanctuary-logo-01_sc-collection-rosegold_sc-collection-rosegold-3.png?appId=aemshell",
+    "alt": "sanctuary-logo",
+    "filename": "5-sanctuary-logo.png"
+  },
+  {
+    "type": "img",
+    "src": "https://www.princess.com/content/dam/princess/corporate/icons/badge-apple-app-store.png",
+    "alt": "MedallionClass App, download on the Apple App Store. Opens in new tab.",
+    "filename": "6-MedallionClass_App__download_on_the_Apple_App_Stor.png"
+  },
+  {
+    "type": "img",
+    "src": "https://www.princess.com/content/dam/princess/corporate/icons/badge-google-play-store.png",
+    "alt": "MedallionClass App, get it on Google Play. Opens in new tab.",
+    "filename": "7-MedallionClass_App__get_it_on_Google_Play__Opens_i.png"
+  }
+]

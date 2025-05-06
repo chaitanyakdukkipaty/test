@@ -1,0 +1,20 @@
+[
+  {
+    "type": "bg",
+    "src": "https://qafco.symmetrydigital-labs.com/wp-content/uploads/2024/11/banner-2.png",
+    "alt": "background-image",
+    "filename": "18-background-image.png"
+  },
+  {
+    "type": "bg",
+    "src": "https://qafco.symmetrydigital-labs.com/wp-content/uploads/2024/11/banner-1.png",
+    "alt": "background-image",
+    "filename": "19-background-image.png"
+  },
+  {
+    "type": "bg",
+    "src": "https://qafco.symmetrydigital-labs.com/wp-content/uploads/2024/11/banner-3.png",
+    "alt": "background-image",
+    "filename": "20-background-image.png"
+  }
+]

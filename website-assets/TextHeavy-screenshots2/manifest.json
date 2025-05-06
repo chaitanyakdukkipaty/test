@@ -1,0 +1,182 @@
+[
+  {
+    "type": "img",
+    "src": "https://k8slens.dev/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F67awagrd%2Fproduction%2Feed2d76ede05ab9f7cf6dd79276d65558ac434ae-143x22.svg&w=384&q=75",
+    "alt": "Lens xx Mirantis",
+    "filename": "1-Lens_xx_Mirantis.jpg"
+  },
+  {
+    "type": "img",
+    "src": "https://k8slens.dev/_next/image?url=%2Fimages%2Fhero-home.webp&w=3840&q=95",
+    "alt": "Lens User Interface",
+    "filename": "2-Lens_User_Interface.jpg"
+  },
+  {
+    "type": "img",
+    "src": "https://k8slens.dev/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F67awagrd%2Fproduction%2F33f085d1df90b58f5c58ed2cfd0bef83a339cdf0-320x141.png&w=640&q=75",
+    "alt": "Abbot",
+    "filename": "3-Abbot.jpg"
+  },
+  {
+    "type": "img",
+    "src": "https://k8slens.dev/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F67awagrd%2Fproduction%2F8d8c3cfc0aaf0bc62e75bbe0c0c2b99085c4e6fa-320x141.png&w=640&q=75",
+    "alt": "accenture",
+    "filename": "4-accenture.jpg"
+  },
+  {
+    "type": "img",
+    "src": "https://k8slens.dev/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F67awagrd%2Fproduction%2F6bd27485deaa2d507b94212e36996d71e0121291-1587x811.svg&w=3840&q=75",
+    "alt": "Audi",
+    "filename": "5-Audi.jpg"
+  },
+  {
+    "type": "img",
+    "src": "https://k8slens.dev/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F67awagrd%2Fproduction%2Ffe27123d90d28b68d35204a8158dd9deae9d7bde-309x163.svg&w=640&q=75",
+    "alt": "Becton Dickinson",
+    "filename": "6-Becton_Dickinson.jpg"
+  },
+  {
+    "type": "img",
+    "src": "https://k8slens.dev/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F67awagrd%2Fproduction%2Fbf0205fa31631a171b55138f38fbb3dad3a35e82-321x141.png&w=750&q=75",
+    "alt": "Capgemini",
+    "filename": "7-Capgemini.jpg"
+  },
+  {
+    "type": "img",
+    "src": "https://k8slens.dev/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F67awagrd%2Fproduction%2F0f24f5dc83ff6a2a22deda3e53c95b9c49880e37-320x141.png&w=640&q=75",
+    "alt": "Cisco",
+    "filename": "8-Cisco.jpg"
+  },
+  {
+    "type": "img",
+    "src": "https://k8slens.dev/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F67awagrd%2Fproduction%2Fc883dc8b979ad3521bd4979558d93de3107662b4-1186x499.svg&w=3840&q=75",
+    "alt": "Cognizant",
+    "filename": "9-Cognizant.jpg"
+  },
+  {
+    "type": "img",
+    "src": "https://k8slens.dev/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F67awagrd%2Fproduction%2Fbe5a18cad5749694c293e9f6d119939fca2b06b5-1212x636.svg&w=3840&q=75",
+    "alt": "Disney",
+    "filename": "10-Disney.jpg"
+  },
+  {
+    "type": "img",
+    "src": "https://k8slens.dev/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F67awagrd%2Fproduction%2Fc340ebc4663c9d77c208e447156609fa8583c3a6-320x141.png&w=640&q=75",
+    "alt": "Equifax",
+    "filename": "11-Equifax.jpg"
+  },
+  {
+    "type": "img",
+    "src": "https://k8slens.dev/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F67awagrd%2Fproduction%2Fc4710798e87844d4f400421a3e60fadc3f0e7177-320x141.png&w=640&q=75",
+    "alt": "General Electric",
+    "filename": "12-General_Electric.jpg"
+  },
+  {
+    "type": "img",
+    "src": "https://k8slens.dev/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F67awagrd%2Fproduction%2F652be8567ba6e53c388fc84be889d6e856ceb007-320x141.png&w=640&q=75",
+    "alt": "Lockheed Martin",
+    "filename": "13-Lockheed_Martin.jpg"
+  },
+  {
+    "type": "img",
+    "src": "https://k8slens.dev/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F67awagrd%2Fproduction%2Fa9ad68907d0e545c2bbfb63aa03375edd57382af-320x141.png&w=640&q=75",
+    "alt": "Microsoft",
+    "filename": "14-Microsoft.jpg"
+  },
+  {
+    "type": "img",
+    "src": "https://k8slens.dev/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F67awagrd%2Fproduction%2Fdde2beaa09edc3aa9ae32d2f63b0e5801fd763a0-1409x841.svg&w=3840&q=75",
+    "alt": "Nike",
+    "filename": "15-Nike.jpg"
+  },
+  {
+    "type": "img",
+    "src": "https://k8slens.dev/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F67awagrd%2Fproduction%2F95279da9a3de00a2f0138f35a983be53695b478b-321x141.png&w=750&q=75",
+    "alt": "nvidia",
+    "filename": "16-nvidia.jpg"
+  },
+  {
+    "type": "img",
+    "src": "https://k8slens.dev/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F67awagrd%2Fproduction%2F66ea689b36faa7e11d3dd28b69645ba8073baea6-321x157.png&w=750&q=75",
+    "alt": "Pfizer",
+    "filename": "17-Pfizer.jpg"
+  },
+  {
+    "type": "img",
+    "src": "https://k8slens.dev/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F67awagrd%2Fproduction%2Fb9c280d8f018e319fbaf0f18d048be42edb2a585-1608x985.svg&w=3840&q=75",
+    "alt": "P&G",
+    "filename": "18-P_G.jpg"
+  },
+  {
+    "type": "img",
+    "src": "https://k8slens.dev/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F67awagrd%2Fproduction%2Ff0c4a310beb344a487cdf6765c90954a918158cc-842x353.svg&w=1920&q=75",
+    "alt": "Siemens",
+    "filename": "19-Siemens.jpg"
+  },
+  {
+    "type": "img",
+    "src": "https://k8slens.dev/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F67awagrd%2Fproduction%2F506b5d75f08a604c1a48a27298aac4366267633b-321x141.png&w=750&q=75",
+    "alt": "Tesla",
+    "filename": "20-Tesla.jpg"
+  },
+  {
+    "type": "img",
+    "src": "https://k8slens.dev/_next/static/media/gradient-bg.a0740a39.svg",
+    "alt": "decoration",
+    "filename": "21-decoration.svg"
+  },
+  {
+    "type": "img",
+    "src": "https://k8slens.dev/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F67awagrd%2Fproduction%2F27d8ffc2d91f38cc5c5b4aa3aa8908ee15621faf-1588x802.png&w=3840&q=95",
+    "alt": "Screenshots of context-aware UI",
+    "filename": "22-Screenshots_of_context-aware_UI.jpg"
+  },
+  {
+    "type": "img",
+    "src": "https://k8slens.dev/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F67awagrd%2Fproduction%2Fa167d0d22dadc00b781c2f4aafcd46055fe21544-736x640.png&w=3840&q=95",
+    "alt": "Visualisation of complexity showing futuristic human brain",
+    "filename": "23-Visualisation_of_complexity_showing_futuristic_hum.jpg"
+  },
+  {
+    "type": "img",
+    "src": "https://k8slens.dev/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F67awagrd%2Fproduction%2Fcbace5a43dcd6ace485a826c84246e52235ddf78-736x640.png&w=3840&q=95",
+    "alt": "Abstract visualisation of a large tree of clusters",
+    "filename": "24-Abstract_visualisation_of_a_large_tree_of_clusters.jpg"
+  },
+  {
+    "type": "img",
+    "src": "https://k8slens.dev/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F67awagrd%2Fproduction%2Fb78d7e56880063ecd2c65848ec6dc05d988328e7-736x640.png&w=3840&q=95",
+    "alt": "Abstract visualisation for workflow optimisation",
+    "filename": "25-Abstract_visualisation_for_workflow_optimisation.jpg"
+  },
+  {
+    "type": "img",
+    "src": "https://k8slens.dev/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F67awagrd%2Fproduction%2Ffefcc997c615625a43b5fd7bc49eb62df0c47091-736x640.png&w=3840&q=95",
+    "alt": "Kubernetes lightbulb",
+    "filename": "26-Kubernetes_lightbulb.jpg"
+  },
+  {
+    "type": "img",
+    "src": "https://k8slens.dev/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F67awagrd%2Fproduction%2Fc0effb2e327edb5ea1576950df15d3493106296e-736x640.png&w=3840&q=95",
+    "alt": "Abstract data visualisation",
+    "filename": "27-Abstract_data_visualisation.jpg"
+  },
+  {
+    "type": "img",
+    "src": "https://k8slens.dev/_next/static/media/gradient-bg-bottom.94f51eaa.svg",
+    "alt": "decoration",
+    "filename": "28-decoration.svg"
+  },
+  {
+    "type": "img",
+    "src": "https://cdn.sanity.io/images/67awagrd/production/110936cfba374470a23a32b5203f4e60775f5c8b-146x50.svg",
+    "alt": "ISO 27001 Certified",
+    "filename": "29-ISO_27001_Certified.svg"
+  },
+  {
+    "type": "img",
+    "src": "https://cdn.sanity.io/images/67awagrd/production/049921ccbb2f3b18b1b9fc0f6f565f5035c6d7fa-158x50.svg",
+    "alt": "SOC2 Type 1 Certified",
+    "filename": "30-SOC2_Type_1_Certified.svg"
+  }
+]

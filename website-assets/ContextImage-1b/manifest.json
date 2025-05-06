@@ -1,0 +1,26 @@
+[
+  {
+    "type": "img",
+    "src": "https://cdn.shopify.com/s/files/1/0360/6491/9692/files/brand.svg?v=1740645482",
+    "alt": "SVG Image",
+    "filename": "6-SVG_Image.svg"
+  },
+  {
+    "type": "img",
+    "src": "https://cdn.shopify.com/s/files/1/0360/6491/9692/files/info.svg?v=1740645480",
+    "alt": "SVG Image",
+    "filename": "7-SVG_Image.svg"
+  },
+  {
+    "type": "img",
+    "src": "https://d19ud5ez64hf3q.cloudfront.net/popup/close.svg",
+    "alt": "no-alt-text",
+    "filename": "8-no-alt-text.svg"
+  },
+  {
+    "type": "img",
+    "src": "https://cdn.shopify.com/s/files/1/0360/6491/9692/files/contact-form_2.png?v=1736169856",
+    "alt": "no-alt-text",
+    "filename": "9-no-alt-text.png"
+  }
+]
